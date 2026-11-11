@@ -43,6 +43,6 @@ Pick a project, open an issue or send a pull request.
 
 <div align="center">
 
-<sub>C Y B E R G A H · built by <a href="https://github.com/delilzagros">@delilzagros</a></sub>
+<sub>C Y B E R G A H · founded and built by <b>Petrus</b> · <a href="https://github.com/delilzagros">GitHub</a> · <a href="https://x.com/AEVERTIS">X @AEVERTIS</a></sub>
 
 </div>
