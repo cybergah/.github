@@ -27,7 +27,7 @@ Offline-first, privacy-respecting open-source tools · Kurdish language tech · 
 
 | Project | What it does | Platforms |
 |---|---|---|
-| 🔎 [**Parmak İzi**](https://github.com/cybergah/parmakizi) | OSINT CLI that finds where a username exists across 32 platforms, with verified rules and Tor support ([web version](https://parmakizi.cybergah.com)) | Linux · Windows · macOS · Web |
+| 🔎 [**Parmak İzi**](https://github.com/cybergah/parmakizi) | OSINT CLI that finds where a username exists across 52 platforms, with verified rules and Tor support ([web version](https://parmakizi.cybergah.com)) | Linux · Windows · macOS · Web |
 | 🗣️ [**Xwendevan**](https://github.com/cybergah/xwendevan) | Reads PDF, DOCX, EPUB and TXT aloud, fully offline, in Kurmanji, Turkish, English and Arabic voices | Android |
 | 🧹 [**Bêşop**](https://github.com/cybergah/besop) | Secure file shredder: overwrites files with random data so recovery tools can't bring them back | Android · Windows · macOS · Linux |
 | 🔐 [**GPG Gabar**](https://github.com/cybergah/gpg-gabar-android) | OpenPGP encryption for text and files, with key generation and management | Android |
