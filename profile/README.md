@@ -41,6 +41,7 @@ Offline-first, privacy-respecting open-source tools · Kurdish language tech · 
 
 Translations, voice recordings, bug reports and code are all welcome.
 Pick a project, open an issue or send a pull request.
+Questions, ideas or just want to talk code? Join **[DevHarbor](https://t.me/devharborhq)**, our global developer community on Telegram.
 
 <div align="center">
 
